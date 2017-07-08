@@ -1,0 +1,16 @@
+.hand {
+  width: 50%;
+  height: 6px;
+  background: black;
+  position: absolute;
+  top:50%;
+  transform-origin: 100%;
+}
+
+.clock-face{
+  border-style: double solid;
+  border-radius: 50%;
+  border-color: black;
+  height: 200px;
+  width: 200px;
+}
