@@ -1,0 +1,7 @@
+.block {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border-style: solid;
+  text-align: center;
+}
