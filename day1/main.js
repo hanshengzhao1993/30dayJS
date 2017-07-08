@@ -1,8 +1,5 @@
 window.onload = function () {
   window.addEventListener('keydown', function (e) {
-    console.log(e);
+    console.log(e.keyCode);
   })
-  // window.addEventListener('click', function (e) {
-  //   console.log(e);
-  // })
 }
